@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node route/index.js",
-    "dev": "node route/index.js"
-  },
+  "start": "node route/index.js",
+  "dev": "node route/index.js"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
